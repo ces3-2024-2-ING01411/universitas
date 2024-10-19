@@ -1,0 +1,6 @@
+#tbl_teams{
+    width: 100%;
+}
+#tbl_teams, th{
+    border: solid 1px #bd2222;
+}
